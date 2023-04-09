@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319236188423",
+    "project_id": "loginandsignup-80e46",
+    "storage_bucket": "loginandsignup-80e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319236188423:android:aeb4d9ef90befff1d3bda2",
+        "android_client_info": {
+          "package_name": "com.shiva.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319236188423-es0tpm8lluktutpa15vi9jkdoihk23ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shiva.loginandsignup",
+            "certificate_hash": "1906206856781289b3f96a6310ca09ae1b8d3008"
+          }
+        },
+        {
+          "client_id": "319236188423-ikknkv50gqdag7s5d10olkj2k85ls4hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANXC2IyJfKCxW6FsnoDvQ5wOnsrjeXylY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319236188423-8vk9spjgshsjngmv91b8cmth6ve0ksbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
